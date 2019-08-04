@@ -1,6 +1,4 @@
-package EasyNet;
-
-import java.util.Arrays;
+package EasyNet.Struct;
 
 /**
  * @author mycclee

@@ -1,4 +1,4 @@
-package EasyNet;
+package EasyNet.Struct;
 
 /**
  * @author mycclee
